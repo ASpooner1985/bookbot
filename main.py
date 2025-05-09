@@ -1,0 +1,10 @@
+from stats import *
+
+statprint()
+
+
+
+
+
+
+
